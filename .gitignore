@@ -1,0 +1,7 @@
+bin/
+Doxygen/html
+Doxygen/latex
+.settings/
+.classpath
+.project
+.vscode/
